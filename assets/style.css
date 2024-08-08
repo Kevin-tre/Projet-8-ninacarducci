@@ -223,6 +223,10 @@ footer .container {
 	right: 0;
 	z-index: -1;
 }
+
+.contrast-fix {
+	color:black;
+}
 .form-container {
 	flex : 2;
 
